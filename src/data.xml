@@ -1,0 +1,241 @@
+<o>
+    <!--城市信息-->
+    <cityInfo class="object">
+        <city type="string">仙桃市</city>
+        <citykey type="string">101201601</citykey>
+        <parent type="string">湖北</parent>
+        <updateTime type="string">18:09</updateTime>
+    </cityInfo>
+    <!--天气信息-->
+    <data class="object">
+        <!--15天预报信息-->
+        <forecast class="array">
+            <e class="object">
+                <aqi type="number">31</aqi>
+                <date type="string">16</date>
+                <fl type="string">3-4级</fl>
+                <fx type="string">北风</fx>
+                <high type="string">高温 14℃</high>
+                <low type="string">低温 10℃</low>
+                <notice type="string">雨虽小，注意保暖别感冒</notice>
+                <sunrise type="string">06:27</sunrise>
+                <sunset type="string">17:56</sunset>
+                <type type="string">小雨</type>
+                <week type="string">星期三</week>
+                <ymd type="string">2019-10-16</ymd>
+            </e>
+            <e class="object">
+                <aqi type="number">95</aqi>
+                <date type="string">17</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">北风</fx>
+                <high type="string">高温 20℃</high>
+                <low type="string">低温 10℃</low>
+                <notice type="string">阴晴之间，谨防紫外线侵扰</notice>
+                <sunrise type="string">06:28</sunrise>
+                <sunset type="string">17:54</sunset>
+                <type type="string">多云</type>
+                <week type="string">星期四</week>
+                <ymd type="string">2019-10-17</ymd>
+            </e>
+            <e class="object">
+                <aqi type="number">68</aqi>
+                <date type="string">18</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">北风</fx>
+                <high type="string">高温 23℃</high>
+                <low type="string">低温 11℃</low>
+                <notice type="string">愿你拥有比阳光明媚的心情</notice>
+                <sunrise type="string">06:29</sunrise>
+                <sunset type="string">17:53</sunset>
+                <type type="string">晴</type>
+                <week type="string">星期五</week>
+                <ymd type="string">2019-10-18</ymd>
+            </e>
+            <e class="object">
+                <aqi type="number">57</aqi>
+                <date type="string">19</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东风</fx>
+                <high type="string">高温 25℃</high>
+                <low type="string">低温 12℃</low>
+                <notice type="string">愿你拥有比阳光明媚的心情</notice>
+                <sunrise type="string">06:29</sunrise>
+                <sunset type="string">17:52</sunset>
+                <type type="string">晴</type>
+                <week type="string">星期六</week>
+                <ymd type="string">2019-10-19</ymd>
+            </e>
+            <e class="object">
+                <aqi type="number">56</aqi>
+                <date type="string">20</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 26℃</high>
+                <low type="string">低温 13℃</low>
+                <notice type="string">阴晴之间，谨防紫外线侵扰</notice>
+                <sunrise type="string">06:30</sunrise>
+                <sunset type="string">17:51</sunset>
+                <type type="string">多云</type>
+                <week type="string">星期日</week>
+                <ymd type="string">2019-10-20</ymd>
+            </e>
+            <e class="object">
+                <aqi type="number">68</aqi>
+                <date type="string">21</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 26℃</high>
+                <low type="string">低温 14℃</low>
+                <notice type="string">阴晴之间，谨防紫外线侵扰</notice>
+                <sunrise type="string">06:31</sunrise>
+                <sunset type="string">17:50</sunset>
+                <type type="string">多云</type>
+                <week type="string">星期一</week>
+                <ymd type="string">2019-10-21</ymd>
+            </e>
+            <e class="object">
+                <date type="string">22</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 25℃</high>
+                <low type="string">低温 13℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:32</sunrise>
+                <sunset type="string">17:49</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期二</week>
+                <ymd type="string">2019-10-22</ymd>
+            </e>
+            <e class="object">
+                <date type="string">23</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">北风</fx>
+                <high type="string">高温 21℃</high>
+                <low type="string">低温 15℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:32</sunrise>
+                <sunset type="string">17:48</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期三</week>
+                <ymd type="string">2019-10-23</ymd>
+            </e>
+            <e class="object">
+                <date type="string">24</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 23℃</high>
+                <low type="string">低温 15℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:33</sunrise>
+                <sunset type="string">17:47</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期四</week>
+                <ymd type="string">2019-10-24</ymd>
+            </e>
+            <e class="object">
+                <date type="string">25</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 22℃</high>
+                <low type="string">低温 15℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:34</sunrise>
+                <sunset type="string">17:46</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期五</week>
+                <ymd type="string">2019-10-25</ymd>
+            </e>
+            <e class="object">
+                <date type="string">26</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东风</fx>
+                <high type="string">高温 22℃</high>
+                <low type="string">低温 15℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:34</sunrise>
+                <sunset type="string">17:45</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期六</week>
+                <ymd type="string">2019-10-26</ymd>
+            </e>
+            <e class="object">
+                <date type="string">27</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 19℃</high>
+                <low type="string">低温 15℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:35</sunrise>
+                <sunset type="string">17:44</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期日</week>
+                <ymd type="string">2019-10-27</ymd>
+            </e>
+            <e class="object">
+                <date type="string">28</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">北风</fx>
+                <high type="string">高温 18℃</high>
+                <low type="string">低温 13℃</low>
+                <notice type="string">不要被阴云遮挡住好心情</notice>
+                <sunrise type="string">06:36</sunrise>
+                <sunset type="string">17:43</sunset>
+                <type type="string">阴</type>
+                <week type="string">星期一</week>
+                <ymd type="string">2019-10-28</ymd>
+            </e>
+            <e class="object">
+                <date type="string">29</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 21℃</high>
+                <low type="string">低温 11℃</low>
+                <notice type="string">阴晴之间，谨防紫外线侵扰</notice>
+                <sunrise type="string">06:37</sunrise>
+                <sunset type="string">17:42</sunset>
+                <type type="string">多云</type>
+                <week type="string">星期二</week>
+                <ymd type="string">2019-10-29</ymd>
+            </e>
+            <e class="object">
+                <date type="string">30</date>
+                <fl type="string">&lt;3级</fl>
+                <fx type="string">东北风</fx>
+                <high type="string">高温 23℃</high>
+                <low type="string">低温 12℃</low>
+                <notice type="string">阴晴之间，谨防紫外线侵扰</notice>
+                <sunrise type="string">06:37</sunrise>
+                <sunset type="string">17:42</sunset>
+                <type type="string">多云</type>
+                <week type="string">星期三</week>
+                <ymd type="string">2019-10-30</ymd>
+            </e>
+        </forecast>
+        <ganmao type="string">各类人群可自由活动</ganmao>
+        <pm10 type="number">20.0</pm10>
+        <pm25 type="number">13.0</pm25>
+        <quality type="string">优</quality>
+        <shidu type="string">94%</shidu>
+        <wendu type="string">12</wendu>
+        <!--昨天的天气信息-->
+        <yesterday class="object">
+            <aqi type="number">43</aqi>
+            <date type="string">15</date>
+            <fl type="string">3-4级</fl>
+            <fx type="string">东北风</fx>
+            <high type="string">高温 20℃</high>
+            <low type="string">低温 14℃</low>
+            <notice type="string">不要被阴云遮挡住好心情</notice>
+            <sunrise type="string">06:27</sunrise>
+            <sunset type="string">17:57</sunset>
+            <type type="string">阴</type>
+            <week type="string">星期二</week>
+            <ymd type="string">2019-10-15</ymd>
+        </yesterday>
+    </data>
+    <date type="string">20191016</date>
+    <message type="string">success感谢又拍云(upyun.com)提供CDN赞助</message>
+    <status type="number">200</status>
+    <time type="string">2019-10-16 18:44:16</time>
+</o>

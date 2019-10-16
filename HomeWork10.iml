@@ -12,5 +12,7 @@
     <orderEntry type="library" name="fileutils_2.12-1.2.2" level="project" />
     <orderEntry type="library" name="commons-io-2.6" level="project" />
     <orderEntry type="library" name="json-20190722" level="project" />
+    <orderEntry type="library" name="jdom-2.0.2" level="project" />
+    <orderEntry type="library" name="xom-1.2.10" level="project" />
   </component>
 </module>
